@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+    "@coppel/root-config": "//localhost:9000/coppel-root-config.js",
+    "@coppel/microfront-login": "//localhost:4200/coppel-template/main.js",
+    "@coppel/microfront-outbound": "//localhost:4201/wms-front-outbound/main.js",
+    "@coppel/robot-shop": "//localhost:4202/robot-shop/main.js",
+    "@coppel/microfront-header": "//localhost:4203/main.js"
+  }
+}
